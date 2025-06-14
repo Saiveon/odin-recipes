@@ -14,5 +14,10 @@
     margin: 2rem 1rem 1rem 1rem;
     text-align: center;
     background-color: rgb(255, 255, 255);
+}
 
+.recipe-image {
+    height: 15rem;
+    width: 15rem;
+    margin: auto 3.5rem;
 }
