@@ -5,9 +5,20 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Garamond', fantasy, sans-serif;
-    outline: red solid 1px;
+    /* outline: red solid 1px; */
 }
 
+body {
+    height: 100%;
+    width: 80%;
+    margin: 0px auto;
+}
+.home-button {
+    margin: .5rem 0rem 0rem .5rem;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+}
 .page-title {
     height: auto;
     width: 20rem;
@@ -20,4 +31,5 @@
     height: 15rem;
     width: 15rem;
     margin: auto 3.5rem;
+    border-radius: 10%;
 }
