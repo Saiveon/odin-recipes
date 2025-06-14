@@ -5,4 +5,14 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Garamond', fantasy, sans-serif;
+    outline: red solid 1px;
+}
+
+.page-title {
+    height: auto;
+    width: 20rem;
+    margin: 2rem 1rem 1rem 1rem;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+
 }
