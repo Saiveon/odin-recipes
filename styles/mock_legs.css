@@ -1,1 +1,8 @@
 /* mock chicken legs styles.ss */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Garamond', fantasy, sans-serif;
+}
