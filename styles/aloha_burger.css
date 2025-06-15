@@ -10,32 +10,91 @@
 }
 
 html {
-    background-color: rgb(112 223 187 / 76%);
+    background-color:  rgb(7, 80, 57);
 }
+
 body {
-    height: 55rem;
+    height: auto;
     width: 80%;
     margin: 2rem auto;
-    background-color:  rgb(72 171 139);
-    overflow-y: hidden;
+    background-color:  rgb(112 223 187 / 76%);
+    border-radius: 1rem
 }
+
 .home-button {
     margin: .5rem 0rem 0rem .5rem;
+    padding: 0rem 1rem 0rem 1rem;
     display: inline-block;
     font-size: 20px;
     text-decoration: none;
 }
+
 .page-title {
     height: auto;
     width: 20rem;
-    margin: 2rem 1rem 1rem 1rem;
     text-align: center;
+    margin: 1rem 1rem 0rem 0rem;
     
+}
+
+.header-titles {
+    height: auto;
+    width: 15rem;
+    margin: .5rem 1rem .5rem 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: underline;;
+    /* background-color: rgb(156, 156, 104);  */
+
 }
 
 .recipe-image {
     height: 15rem;
     width: 15rem;
-    margin: auto 3.5rem;
+    margin: .5rem .5rem 0rem 2rem;
     border-radius: 10%;
+    vertical-align: top;
+}
+
+.photo-credit {
+    height: auto;
+    width: 10%;
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    display: inline-block;
+   
+}
+
+.photo-description {
+    height: auto;
+    width: 30%;
+    margin: .5rem 0rem 1rem 1rem;;
+    padding: 1rem;
+
+}
+
+.ingredients-list-item {
+    height: auto;
+    width: 15rem;
+    margin: 0rem 0rem .5rem 2rem;
+}
+
+
+.steps-list {
+    height: 20rem;
+    width: auto;
+}
+
+.steps-list-item {
+    height: 90%;
+    width: 15rem;
+    margin: 0rem 1rem auto 2rem;
+    padding: .5rem;
+    vertical-align: top;
+    text-wrap: wrap;
+    font-size: 15px;
+    display: inline-block;
+    border: black solid 2px;
+    background-color: rgb(230, 220, 208);
+    border-radius: 2%;
+
 }
