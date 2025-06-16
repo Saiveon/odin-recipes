@@ -40,3 +40,13 @@
     font-style: italic;
     /* outline: red solid 1px; */
 }
+
+.nav-item-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item-link:hover {
+    color: #125E5E;
+    text-decoration: underline;
+}
