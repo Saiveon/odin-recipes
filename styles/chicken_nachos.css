@@ -8,14 +8,14 @@
 }
 
 html {
-    background-color: #054e64;;
+    background-color: #054e64;
 }
 
 body {
     height: auto;
     width: 80%;
     margin: 2rem auto;
-    background-color:  rgb(112 223 187 / 76%);
+    background-color:  #0b8ab1;
     border-radius: 1rem
 }
 
