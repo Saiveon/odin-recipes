@@ -7,6 +7,10 @@
     font-family: 'Garamond', fantasy, sans-serif;
 }
 
+html {
+    background-color: #a38d0c;;
+}
+
 .home-button {
     margin: .5rem 0rem 0rem .5rem;
     display: inline-block;
